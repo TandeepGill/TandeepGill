@@ -8,8 +8,9 @@
 - 🌱 I’m currently learning Next.js
 - 🔭 I’m currently working on Data Structures & Algorithms in JavaScript
 - 🏔️ Fun fact: I've climbed Mount Kilimanjaro, the highest free-standing mountain in the world
-- 🔎 Check out my personal portfolio [here](https://www.tandeepgill.com/)
-- 📫 Best way to reach me is via [Email](mailto:gill.tandeep@gmail.com)
+- 🔎 Check out my personal portfolio <a href="https://www.tandeepgill.com" target="_blank">Here</a>
+- 📫 Best way to reach me is via <a href="mailto:gill.tandeep@gmail.com" target="_blank">Email</a>
+
 
 ### ⚙️ Languages & Tools
 

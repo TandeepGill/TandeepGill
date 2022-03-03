@@ -1,4 +1,4 @@
-### 👋 Hi there!
+## 👋 Hi there!
 
 - 👨‍💻 I'm Tandeep, a Full Stack Software Engineer
 - 🏡 I'm based in Orange County, California
@@ -11,7 +11,7 @@
 - 🔎 Check out my personal portfolio [Here](https://www.tandeepgill.com)
 - 📫 Best way to reach me is via [Email](mailto:gill.tandeep@gmail.com)
 
-### ⚙️ Languages & Tools
+## ⚙️ Languages & Tools
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/officel/48/000000/react.png"/>

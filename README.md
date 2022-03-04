@@ -6,7 +6,7 @@
 - 📈 After graduating, I worked in Investment Banking and Real Estate Private Equity
 - 💻 I attended Fullstack Academy's Full-Time Software Engineering Immersive Program after my new found love for coding
 - 🌱 I’m currently learning Next.js
-- 🔭 I’m currently working on Data Structures & Algorithms in JavaScript
+- 🔭 Continuously working on Data Structures & Algorithms in JavaScript
 - 🏔️ Fun fact: I've climbed Mount Kilimanjaro, the highest free-standing mountain in the world
 - 🔎 Check out my personal portfolio [Here](https://www.tandeepgill.com)
 - 📫 Best way to reach me is via [Email](mailto:gill.tandeep@gmail.com)

@@ -3,7 +3,7 @@
 - 👨‍💻 I'm Tandeep, a Full Stack Software Engineer
 - 🎓 I have a MA in Accounting & Finance from the University of Aberdeen in Scotland
 - 📈 After graduating, I worked in Investment Banking and Real Estate Private Equity
-- 💻 I attended Fullstack Academy's Full-Time Software Engineering Immersive Program in NYC after my new found love for coding
+- 💻 I attended Fullstack Academy's Software Engineering Immersive Program in NYC after my new found love for coding
 - 🌱 I’m currently learning Next.js
 - 🔭 Continuously practicing Data Structures & Algorithms in JavaScript
 - 🏔️ Fun fact: I've climbed Mount Kilimanjaro, the highest free-standing mountain in the world
@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🏡 I'm based in Orange County, California
+- 💻 I attended Fullstack Academy's Full-Time Software Engineering Immersive Program in NYC after my new found love for coding
 -->

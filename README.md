@@ -4,8 +4,8 @@
 - 🎓 I have a MA in Accounting & Finance from the University of Aberdeen in Scotland
 - 📈 After graduating, I worked in Investment Banking and Real Estate Private Equity
 - 💻 I attended Fullstack Academy's Software Engineering Immersive Program in NYC after my new found love for coding
-- 🌱 I’m currently learning Next.js
-- 🔭 Continuously practicing Data Structures & Algorithms in JavaScript
+- 🌱 I’m currently learning Microservices
+- 🔭 Continuously practicing Data Structures & Algorithms in Java
 - 🏔️ Fun fact: I've climbed Mount Kilimanjaro, the highest free-standing mountain in the world
 - 🔎 Check out my personal portfolio [Here](https://www.tandeepgill.com)
 - 🔗 My LinkedIn profile can be found [Here](https://www.linkedin.com/in/tandeepgill/)
@@ -13,6 +13,8 @@
 
 ## ⚙️ Languages & Tools
 
+<img align="left" img src="https://icons8.com/icon/13679/java"/>
+<img align="left" img src="https://icons8.com/icon/90519/spring-boot"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/officel/48/000000/react.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>

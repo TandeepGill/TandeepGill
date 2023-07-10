@@ -13,8 +13,8 @@
 
 ## ⚙️ Languages & Tools
 
-<img align="left" img src="https://img.icons8.com/icon/Pd2x9GWu9ovX/java"/>
-<img align="left" img src="https://img.icons8.com/icon/90519/spring-boot"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/java.png"/>
+<img align="left" img src="https://img.icons8.com/color/48/000000/spring-boot.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/officel/48/000000/react.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>

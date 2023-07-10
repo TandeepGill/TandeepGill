@@ -13,7 +13,7 @@
 
 ## ⚙️ Languages & Tools
 
-<img align="left" img src="https://img.icons8.com/color/48/000000/java/96">
+<img align="left" img src="https://img.icons8.com/color/48/000000/java">
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/officel/48/000000/react.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>

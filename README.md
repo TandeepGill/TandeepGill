@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-- 👨‍💻 I'm Tandeep, a Full Stack Software Engineer
+- 👨‍💻 I'm Tandeep, a Software Developer
 - 🎓 I have a MA in Accounting & Finance from the University of Aberdeen in Scotland
 - 📈 After graduating, I worked in Investment Banking and Real Estate Private Equity
 - 💻 I attended Fullstack Academy's Software Engineering Immersive Program in NYC after my new found love for coding

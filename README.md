@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 - 👨‍💻 I'm Tandeep, a Software Developer
-- 🏗️ I'm building Rentalverse, a fullstack React (JavaScript) and Spring Boot (Java) project, which helps landlords easily manage their portfolio of properties
+- 🏗️ I'm building Rentalverse, a fullstack React and Spring Boot project, which helps landlords easily manage their portfolio of properties
 - 🎓 I have a MA in Accounting & Finance from the University of Aberdeen in Scotland
 - 📈 After graduating, I worked in Investment Banking and Real Estate Private Equity
 - 💻 I attended Fullstack Academy's Software Engineering Immersive Program in NYC after my newfound love for coding

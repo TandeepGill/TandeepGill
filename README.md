@@ -21,6 +21,7 @@
 <img align="left" img src="https://img.icons8.com/officel/48/000000/react.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/redux.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" img src="https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" img src="https://img.icons8.com/color-glass/48/000000/github.png"/>

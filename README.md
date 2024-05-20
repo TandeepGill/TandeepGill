@@ -6,7 +6,7 @@
 - 🎓 I have a MA in Accounting & Finance from the University of Aberdeen in Scotland
 - 📈 After graduating, I worked in Investment Banking and Real Estate Private Equity
 - 💻 I attended Fullstack Academy's Software Engineering Immersive Program in NYC after my newfound love for coding
-- 🌱 I'm currently learning automated end-to-end (E2E) testing with Microsoft Playwright in JavaScript
+- 🌱 I'm currently learning automated end-to-end (E2E) testing with Microsoft Playwright
 - 🔭 Continuously practicing Data Structures & Algorithms in Java
 - 🏔️ Fun fact: I've climbed Mount Kilimanjaro, the highest free-standing mountain in the world
 - 🔎 Check out my personal portfolio [Here](https://www.tandeepgill.com)
